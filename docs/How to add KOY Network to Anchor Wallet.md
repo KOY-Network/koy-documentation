@@ -18,7 +18,7 @@ export const FigureText = ({children, color}) => (
   </span>
 );
 
-### Step 1
+### Step 1: Open Anchor
 
 Open Anchor Wallet. At the top left corner of the interface, just to the right of the Anchor logo, is the name of the chain that you are currently signed into. Click the drop-down arrow beside it to open the Select Blockchain drop menu. Click on the Manage Blockchains button at the top of the list.
 
@@ -34,7 +34,7 @@ Open Anchor Wallet. At the top left corner of the interface, just to the right o
   />
   <FigureText>Fig 1. Anchor Wallet Chain Selector</FigureText>
 
-### Step 2
+### Step 2: Manage Available Blockchains
 
 The Manage Available Blockchains screen will open. Scroll to the bottom of it and click on the tile for Add/Remove.
 
@@ -48,7 +48,7 @@ The Manage Available Blockchains screen will open. Scroll to the bottom of it an
     }}
   /><FigureText>Fig 2. Add/Remove Chain</FigureText>
 
-### Step 3
+### Step 3: Add Custom Blockchain
 
 You will see a list of all the blockchains that Anchor Wallet already knows about. However, KOY Network is not yet on this list so click the Custom Blockchain button at the top right of the screen.
 
@@ -62,7 +62,7 @@ You will see a list of all the blockchains that Anchor Wallet already knows abou
     }}
   /><FigureText>Fig 3. Custom Blockchain button</FigureText>
 
-### Step 4
+### Step 4: Configure KOY Mainnet
 
 You will see the add a custom blockchain screen. For the KOY Mainnet fill in the fields as follows:
 Chain ID: 8a34ec7df1b8cd06ff4a8abbaa7cc50300823350cadc59ab296cb00d104d2b8f
@@ -85,7 +85,7 @@ Click the Save button.
     }}
   /><FigureText>Fig 4. New Blockchain Properties page</FigureText>
 
-### Step 5
+### Step 5: Enable KOY Blockchains
 
 You will have returned to the list of networks that Anchor knows about. Find the KOY network(s) and make sure their checkboxes are checked. Click the button at the top left that reads “Enable # blockchains”.
 
@@ -109,7 +109,7 @@ You will have returned to the list of networks that Anchor knows about. Find the
     }}
   /><FigureText>Fig 6. Enable button</FigureText>
 
-### Step 6
+### Step 6: Manage KOY Networks
 
 Returning to the Manage Available Blockchains screen, you can click on the KOY network you choose to open it. You can also click the pin icon for KOY to ensure it appears in the blockchain dropdown screen. Once you’ve selected the KOY networks, you can import accounts just as with any other network.
 
@@ -123,7 +123,7 @@ Returning to the Manage Available Blockchains screen, you can click on the KOY n
     }}
   /><FigureText>Fig 7. Manage Available Blockchains screen</FigureText>
 
-### Step 7
+### Step 7: Add KOY Testnet
 
 To add the KOY Testnet, follow the same process but in step 4, use these parameters:
 Chain ID: 2081223fcffc96ce2d22ab63df414d1d6bf2f64f2e2922d500808decacd8b8b,
@@ -142,7 +142,7 @@ the bottom to indicate the network is a testnet. And Click the Save button
 
 ## Add the KOYN token to Anchor Wallet
 
-### Step 8
+### Step 8: Manage Tracked Tokens
 
 While connected to the KOYN Mainnet, Click Tools on the left-side menu. Then Click Manage Tracked Tokens.
 
@@ -156,7 +156,7 @@ While connected to the KOYN Mainnet, Click Tools on the left-side menu. Then Cli
     }}
   /><FigureText>Fig 9. Anchor Wallet “Manage Tracked Tokens” Tool</FigureText>
 
-### Step 9
+### Step 9: Add Custom Token
 
 Click the + Add Custom Token button.
 
@@ -170,7 +170,7 @@ Click the + Add Custom Token button.
     }}
   /><FigureText>Fig 10. Anchor Wallet with no tokens tracked</FigureText>
 
-### Step 10
+### Step 10: Confirm Token Addition
 
 In the Contract Account Name and Contract Asset Symbol, enter eosio.token, and KOYN, respectively. Click the Add Custom Token button.
 
@@ -184,7 +184,7 @@ In the Contract Account Name and Contract Asset Symbol, enter eosio.token, and K
     }}
   /><FigureText>Fig 11. Parameters for adding KOYN token</FigureText>
 
-### Step 11
+### Step 11: Confirm Token Addition
 
  Click the Confirm Token Addition button
 
@@ -198,7 +198,7 @@ In the Contract Account Name and Contract Asset Symbol, enter eosio.token, and K
     }}
   /><FigureText>Fig 12. Add Custom Token Verification Screen</FigureText>
 
-### Step 12
+### Step 12: View Tracked Balance
 
 You’ll now see KOYN as a manually tracked balance. Your balance is likely to be zero because Anchor Wallet does not show your staked balances. You can find these on the **[KOY Network Block Explorer](https://explorer.koynetwork.io/)**.
 
@@ -213,7 +213,7 @@ You’ll now see KOYN as a manually tracked balance. Your balance is likely to b
     }}
   /><FigureText>Fig 13. KOYN Token added</FigureText>
 
-### Step 13
+### Step 13: Finalize Setup
 
 Go to your Anchor Wallet Home screen at the top of the left-hand menu. Click the Tokens tab to see your KOYN balance. You may need to push the Load All Balances button at the bottom of the page to refresh your balances.
 
