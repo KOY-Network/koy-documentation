@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 <!-- ## How to: Add KOY Network to Anchor Wallet -->
 
 The KOY Network will employ user-friendly interfaces that do not impose the challenges of key management on users. However, for those users already versed in the Antelope protocol system, the popular Anchor Wallet by Greymass can be easily set up to interact with the KOY mainnet and testnets. Just make sure you’ve installed the latest version of Anchor Wallet for desktop or iPhone (the Android version does not yet allow adding new chains so KOY Networks will need to be added in a coming release). 
