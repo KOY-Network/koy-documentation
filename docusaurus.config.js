@@ -97,7 +97,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduction',
                 // to: '/docs/intro',
                 to: '/',
               },
@@ -129,7 +129,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KOY-Network/koy-documentation',
               },
             ],
           },
