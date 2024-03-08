@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KOY-Network/koy-documentation/tree/main',
         },
         blog: false,
         // blog: {
@@ -70,7 +70,7 @@ const config = {
       navbar: {
         // title: 'My Site',
         logo: {
-          href: 'https://explorer.koynetwork.io/',
+          href: 'https://koynetwork.io/',
           target: '_self',
           alt: 'My Site Logo',
           src: 'img/KOY_Logo.png',
