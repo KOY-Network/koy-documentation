@@ -73,7 +73,7 @@ const config = {
           href: 'https://koynetwork.io/',
           target: '_self',
           alt: 'My Site Logo',
-          src: 'img/KOY_Logo.png',
+          src: 'img/KOY_colored_text.png',
         },
         items: [
           {

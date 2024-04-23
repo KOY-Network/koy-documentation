@@ -7,7 +7,7 @@ sidebar_position: 2
 export const FigureText = ({children, color}) => (
 <span
 style={{
-      color: '#ce1c61',
+      color: '#e56b6f',
       display: 'block', // Ensure the span takes the full width
       textAlign: 'center', // Center the text
       fontStyle: 'italic' // Make the text italic
