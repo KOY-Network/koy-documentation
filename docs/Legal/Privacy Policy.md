@@ -121,3 +121,107 @@ this Privacy Policy
 - Unless a longer retention period is required or permitted by law, we will only hold your Data on our systems for the period necessary to fulfil the purposes outlined in this Privacy Policy or until you request that the Data be deleted.
 
 - Even if we delete your Data, it may persist on backup or archival media for legal, tax or regulatory purposes.
+
+## Your Rights
+
+- You have the following rights in relation to your Data:
+    - **Right to access** - the right to request (i) copies of the information we hold about you at any time, or (ii) that we modify, update or delete such information. If we provide you with access to the information we hold about you, we will not charge you for this, unless your request is "manifestly unfounded or excessive." Where we are legally permitted to do so, we may refuse your request. If we refuse your request, we will tell you the reasons why.
+    - **Right to correct** - the right to have your Data rectified if it is inaccurate or incomplete.
+    - **Right to erase** - the right to request that we delete or remove your Data from our systems.
+    - **Right to restrict our use of your Data** - the right to "block" us from using your Data or limit the way in which we can use it.
+    - **Right to data portability** - the right to request that we move, copy or transfer your Data.
+    - **Right to object** - the right to object to our use of your Data including where we use it for our legitimate interests.
+
+- To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: [admin@koynetwork.io](mailto:admin@koynetwork.io).
+
+- If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/.
+
+- It is important that the Data we hold about you is accurate and current. Please keep us informed if your Data changes during the period for which we hold it.
+
+## Links to Other Websites
+
+- This Website may, from time to time, provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This Privacy Policy does not extend to your use of such websites. You are advised to read the Privacy Policy or statement of other websites prior to using them.
+
+## Changes of Business Ownership and Control
+
+- KOY Network Limited may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of KOY Network Limited. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
+
+- We may also disclose Data to a prospective purchaser of our business or any part of it.
+
+- In the above instances, we will take steps with the aim of ensuring your privacy is protected.
+
+## Cookies
+
+- This Website may place and access certain Cookies on your computer. KOY Network Limited uses Cookies to improve your experience of using the Website and to improve our range of services. KOY Network Limited has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
+
+- All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
+
+- Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling KOY Network Limited to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
+
+This Website may place the following Cookies:
+
+| Type of Cookie | Purpose |
+| --- | --- |
+| Strictly necessary cookies | These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. |
+| Analytical/performance cookies | They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. |
+| Functionality cookies | These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). By using the Website, you agree to our placement of functionality cookie. |
+
+- You can find a list of Cookies that we use in the Cookies Schedule.
+
+- You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please see the help menu in your internet browser. You can switch off Cookies at any time, however, you may lose any information that enables you to access the Website more quickly and efficiently.
+
+- You can choose to delete Cookies at any time; however, you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
+
+- It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+
+- For more information generally on cookies, including how to disable them, please refer to aboutcookies.org. You will also find details on how to delete cookies from your computer.
+
+## General
+
+- You may not transfer any of your rights under this Privacy Policy to any other person. We may transfer our rights under this Privacy Policy where we reasonably believe your rights will not be affected.
+
+- If any court or competent authority finds that any provision of this Privacy Policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, be deemed to be deleted, and the validity and enforceability of the other provisions of this Privacy Policy will not be affected.
+
+- Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, right or remedy.
+
+- This Agreement will be governed by and interpreted according to the law of England and Wales. All disputes arising under the Agreement will be subject to the exclusive jurisdiction of the English and Welsh courts.
+
+## Changes to This Privacy Policy
+
+- KOY Network Limited reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Privacy Policy on your first use of the Website following the alterations.
+
+    You may contact KOY Network Limited by email at [admin@koynetwork.io](mailto:admin@koynetwork.io).
+
+### Attribution
+
+- This Privacy Policy was created using a document from Rocket Lawyer (https://www.rocketlawyer.com/gb/en).
+
+    This Privacy Policy was created on **01 April 2024**.
+
+## Cookies
+
+Below is a list of the cookies that we use. We have tried to ensure this is complete and up to date, but if you think that we have missed a cookie or there is any discrepancy, please let us know.
+
+### Strictly necessary
+
+We use the following strictly necessary cookies:
+
+| Description | Purpose |
+| --- | --- |
+| Session cookie | We use this session cookie to remember you and maintain your session whilst you are using our website.' |
+
+### Functionality
+
+We use the following functionality cookies:
+
+| Description | Purpose |
+| --- | --- |
+| IP address tracking | We use this cookie to identify your computer and analyse traffic patterns on our website. |
+
+### Analytical/Performance
+
+We use the following analytical/performance cookies:
+
+| Description | Purpose |
+| --- | --- |
+| Website usage | We use this cookie to help us analyse how users use the website. |
