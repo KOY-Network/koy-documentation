@@ -208,7 +208,7 @@ We use the following strictly necessary cookies:
 
 | Description | Purpose |
 | --- | --- |
-| Session cookie | We use this session cookie to remember you and maintain your session whilst you are using our website.' |
+| Session cookie | We use this session cookie to remember you and maintain your session whilst you are using our website. |
 
 ### Functionality
 
