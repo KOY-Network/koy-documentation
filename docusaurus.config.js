@@ -107,16 +107,24 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/koynetworkio',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/koynetworkio',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/KOYAnnOfficial',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/KoyNetwork',
+              },
+              {
+                label: 'Medium',
+                href: 'https://koynetworkio.medium.com/',
               },
             ],
           },
