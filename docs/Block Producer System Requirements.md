@@ -24,19 +24,19 @@ For nodes handling significant State History requests, it's recommended to use S
 
 CPU: 2 cores, each >= 3.7 GHz  
 RAM: 16 GB, with an additional 16 GB swap (32GB recommended)  
-Storage: 1024 GB HDD  
+Storage: 128 GB HDD 
 Internet Connection: 100 Mb/s  
 
 ### API Node with Blocks Log
 
 CPU: 4 cores, each >= 3.8 GHz  
 RAM: 32 GB  
-Storage: 1024 GB HDD  
+Storage: 250 GB HDD  
 Internet Connection: 100 Mb/s or higher  
 
-### State History Node with Blocks Log
+### State History Node (SHIP) with Blocks Log
 
 CPU: 4 cores, each >= 3.8 GHz  
 RAM: 32 GB  
-Storage: 2048 GB HDD  
+Storage: 512 GB HDD  
 Internet Connection: 100 Mb/s or higher  
